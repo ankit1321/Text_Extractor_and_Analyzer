@@ -8,7 +8,10 @@
 
 ### Python 3.7.1
 
-$ pip install -r requirements.txt  
+    $ pip install -r requirements.txt  
 
-    The above command  will install all the particular version required to run the project.  
-    It is advised to create a virtual environment and then install all the requirement packages.
+The above command  will install all the particular version required to run the project.    
+It is advised to create a virtual environment and then install all the requirement packages.
+For windows ensure that you have cmake installed in visual studio and added in path.
+
+    $ python main.py
