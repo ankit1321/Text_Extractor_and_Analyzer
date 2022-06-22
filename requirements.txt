@@ -31,4 +31,4 @@ pyttsx3 == 2.90
 speechrecognition == 3.8.1
 
 # D:\Ankit\Text_Extractor_and_Analyzer\main.py: 6
-numpy == 1.19.4
+numpy == 1.22.0
